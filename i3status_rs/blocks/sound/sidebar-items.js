@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DeviceKind","SoundDriver"],"mod":["pipewire"],"struct":["Config"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PlayerName"],"struct":["Config"]};

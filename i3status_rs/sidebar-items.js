@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":[["map",1]],"mod":["blocks","click","config","doctor","errors","escape","formatting","geolocator","icons","pipewire","protocol","themes","util","widget"],"struct":["BarState","Block","CliArgs"]};
